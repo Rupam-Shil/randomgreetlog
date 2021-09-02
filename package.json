@@ -1,0 +1,19 @@
+{
+  "name": "randomgreetlog",
+  "version": "1.0.0",
+  "description": "get random greet log in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupam-Shil/randomgreetlog.git"
+  },
+  "author": "Rupam Shil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rupam-Shil/randomgreetlog/issues"
+  },
+  "homepage": "https://github.com/Rupam-Shil/randomgreetlog#readme"
+}
